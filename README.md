@@ -27,7 +27,7 @@ Welcome to my digital playground! Dive in to discover my tech adventures, creati
 
 ## 🌟 Who Am I?
 
-Hi, I’m **Sachin Deshik** — Electronics & Communication Engineer by degree, technology explorer by passion, and creative problem solver by default. I love standing at the crossroads of code, creativity, and curiosity.
+Hi, I’m **Sachin Deshik** — Electronics & Communication Engineer by degree, technology explorer by passion, and creative problem solver by default. I love standing at the crossroads of code, creativity, security, and design.
 
 - 🤖 **AI Lover:** Building smart systems that surprise me (and sometimes, scare me a little).
 - 🔐 **Security Buff:** Because “It works!” isn’t enough—it must be secure!
@@ -62,8 +62,8 @@ Let’s make tech that’s bold, beautiful, and unbreakable.
 
 ## 📜 Certifications
 
-- ✅ **Ethical Hacking** (by Rajat Grover)  
-- 🎨 **Canva Design Mastery** (1000+ verified designs!)  
+- ✅ **Ethical Hacking** (by Rajat Grover)
+- 🎨 **Canva Design Mastery** (1000+ verified designs!)
 - 📚 *Next up:* Advanced AI Architectures, Applied Math for ML
 
 ---
@@ -96,7 +96,7 @@ Built interactive dashboards that blend JS and Python for real-time AI analytics
 
 ## 🧰 Tools & Tech Toys
 
-| Domain         | Toys I Play With                        |
+| Domain         | Tech I Play With                        |
 | -------------- | --------------------------------------- |
 | IoT & Edge     | MQTT, HTTP, Arduino basics              |
 | ML/AI          | PyTorch, TensorFlow, OpenCV             |
@@ -175,12 +175,14 @@ Built interactive dashboards that blend JS and Python for real-time AI analytics
 
 ## 💬 Let’s Connect!
 
-| Platform   | Link                                                                   |
-|------------|------------------------------------------------------------------------|
-| 📧 Email   | [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com)|
-| 💼 LinkedIn| [Let’s Connect!](#)                                                    |
-| 🐦 Twitter | [@sachindeshik10](#)                                                   |
-| 🌐 Portfolio| _Coming soon!_                                                        |
+| Platform      | Link                                                                                                                                           |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📧 Email      | [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com)                                                                        |
+| 💼 LinkedIn   | [LinkedIn Profile](https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| 📸 Instagram  | [Instagram Profile](https://www.instagram.com/__.desh._.10.__/profilecard/?igsh=bWRqOWZ0MnU0NHIx)                                               |
+| 💬 WhatsApp   | [Chat on WhatsApp](https://wa.me/qr/6LRSFDM5UY27J1)                                                                                            |
+| 🐦 Twitter    | [@sachindeshik10](#)                                                                                                                           |
+| 🌐 Portfolio  | _Coming soon!_                                                                                                                                 |
 
 > “Collaboration allows us to know more than we are capable of knowing by ourselves.” — Paul Solarz  
 Got questions? Ideas? Want to team up? Open an issue, drop a message, or just say hi!
@@ -192,3 +194,4 @@ Got questions? Ideas? Want to team up? Open an issue, drop a message, or just sa
 If you made it this far, you’re awesome. Let’s build, break (ethically!), and innovate together.  
 **Ready to create something cool? Hit me up!** 🔧💡
 
+---
