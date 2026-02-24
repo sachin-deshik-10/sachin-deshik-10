@@ -172,6 +172,17 @@ Built interactive dashboards that blend JS and Python for real-time AI analytics
 🌱 I’m always contributing to open-source AI & security tools—come join the fun!
 
 ---
+## Publications
+
+### IEEE Conference Paper
+- **Advanced Data-Driven Analysis and Optimization of LoRa Networks: A Comprehensive Machine Learning Approach**  
+  **Authors:** N. S. Deshik, N. Kanthi, S. M  
+  **Venue:** *2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)*, Bangalore, India (2025)  
+  **Pages:** 1–6  
+  **DOI:** https://doi.org/10.1109/CSITSS67709.2025.11295011  
+  **Keywords:** LoRa; Machine Learning; Exploratory Data Analysis; Modulation Schemes; IoT; Network Optimization; Data Visualization; Signal-to-Noise Ratio; Bit Error Rate; Chirp Spread Spectrum; Throughput; Energy Efficiency
+
+---
 
 ## 💬 Let’s Connect!
 
