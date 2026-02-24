@@ -1,208 +1,221 @@
-
-
-# 👋 Hey there, I'm Sachin Deshik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+# Hi, I’m Sachin Deshik 👋
 
 > “The best way to predict the future is to invent it.” — Alan Kay
 
-Welcome to my digital playground! Dive in to discover my tech adventures, creative experiments, and the dreams that keep me coding at 2 AM. 🚀
+I’m an **Electronics & Communication Engineer** and a hands-on builder focused on **AI/ML, computer vision, IoT/edge systems, and cybersecurity**.  
+I enjoy shipping systems where **models meet real-world constraints**: latency, reliability, observability, and security.
 
 ---
 
 ## 🧭 Table of Contents
 
-1. [Who Am I?](#who-am-i)
+1. [About](#about)
 2. [Education](#education)
-3. [Core Skills](#core-skills)
+3. [Technical Strengths](#technical-strengths)
 4. [Certifications](#certifications)
-5. [Experience & Projects](#experience--projects)
-6. [Tools & Tech Toys](#tools--tech-toys)
-7. [Ethical Hacking Insights](#ethical-hacking-insights)
-8. [Math Mindset](#math-mindset)
-9. [Creative Side Quests](#creative-side-quests)
-10. [Project Highlights](#project-highlights)
-11. [Reading Nook](#reading-nook)
-12. [Let’s Connect!](#lets-connect)
+5. [Engineering Projects](#engineering-projects)
+6. [Toolbox](#toolbox)
+7. [Security & Defensive Thinking](#security--defensive-thinking)
+8. [Math Foundations](#math-foundations)
+9. [Creative Work](#creative-work)
+10. [Highlighted Repositories](#highlighted-repositories)
+11. [Reading](#reading)
+12. [Publications](#publications)
+13. [Connect](#connect)
 
 ---
 
-## 🌟 Who Am I?
+## 🔥 About
 
-Hi, I’m **Sachin Deshik** — Electronics & Communication Engineer by degree, technology explorer by passion, and creative problem solver by default. I love standing at the crossroads of code, creativity, security, and design.
+I��m **Sachin Deshik** — I build **intelligent, secure, real-time systems** across AI + networks + embedded/edge workflows.
 
-- 🤖 **AI Lover:** Building smart systems that surprise me (and sometimes, scare me a little).
-- 🔐 **Security Buff:** Because “It works!” isn’t enough—it must be secure!
-- 🎨 **Design Thinker:** “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
+- 🤖 **AI/ML + CV:** training, evaluation, deployment-aware thinking (speed, memory, failure modes)
+- 📡 **IoT/Edge Systems:** streaming telemetry, messaging patterns, device-to-cloud pipelines
+- 🔐 **Security Mindset:** threat modeling, pentesting fundamentals, and “secure-by-design” engineering
+- 🎨 **Design + Engineering:** dashboards, technical storytelling, and UX that makes systems usable
 
-Let’s make tech that’s bold, beautiful, and unbreakable.
+If it can be measured, optimized, secured, and automated — I’m interested.
 
 ---
 
 ## 🎓 Education
 
-- **B.E. in ECE** — RV College of Engineering, Bangalore  
-  *“Education is not the filling of a pail, but the lighting of a fire.” — W.B. Yeats*  
-  Learned circuits, signals, and how to turn coffee into code.
-- **Side Quests:**  
-  Self-taught in AI, ML, cybersecurity, IoT, and just about anything that piques my curiosity.
+- **B.E. (Electronics & Communication Engineering)** — RV College of Engineering, Bangalore  
+  Strong foundation in signals, systems, networks, and applied engineering.
+
+- **Self-Directed Learning:**  
+  ML/AI, cybersecurity, IoT systems, applied mathematics, and engineering tools through projects and continuous experimentation.
 
 ---
 
-## 🛠️ Core Skills
+## 🧠 Technical Strengths
 
-- **Languages:** Python, C, JavaScript
-- **AI/ML:** TensorFlow, PyTorch, Keras, scikit-learn
-- **Data & Viz:** NumPy, Pandas, Matplotlib
-- **IoT & Embedded:** MQTT, HTTP, Microcontroller fun
-- **Frontend:** HTML/CSS/JS (+ frameworks)
-- **Security:** Penetration testing, threat response, network analysis
+### Programming & Engineering
+- **Python** (data pipelines, tooling, automation, prototyping → productionization mindset)
+- **C** (systems/embedded fundamentals)
+- **JavaScript/TypeScript** (frontend + dashboards, integration workflows)
 
-> “Skill is only developed by hours and hours of work.” — Usain Bolt
+### AI/ML & Computer Vision
+- Model development with **PyTorch / TensorFlow / Keras**
+- Practical ML with **scikit-learn**
+- CV pipelines with **OpenCV**
+- Comfortable with: dataset handling, metrics, error analysis, inference constraints, and iterative improvement
+
+### Data & Analytics
+- **NumPy, Pandas, Matplotlib**
+- Building analysis flows that produce decisions, not just charts
+
+### IoT / Networking
+- **MQTT, HTTP**, telemetry streaming patterns
+- Thinking in reliability: retries, QoS, payload design, latency budgets
+
+### Security
+- Vulnerability discovery basics, network analysis, incident response awareness
+- Building systems with stronger defaults: least privilege, safer configs, secure comms, logging/monitoring
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Ethical Hacking** (by Rajat Grover)
-- 🎨 **Canva Design Mastery** (1000+ verified designs!)
-- 📚 *Next up:* Advanced AI Architectures, Applied Math for ML
+- ✅ **Ethical Hacking** — Rajat Grover  
+- 🎨 **Canva Design Mastery** — 1000+ verified designs  
+- 📚 Next: Advanced AI architectures + applied math for ML
 
 ---
 
-## 🚀 Experience & Projects
+## 🚀 Engineering Projects
 
-Where wild ideas crash into reality!
+### 1) Real-Time GPS Streaming over MQTT
+Built a real-time GPS telemetry pipeline using **MQTT** with attention to:
+- low-latency streaming
+- structured payloads
+- secure transport / encryption considerations
+- deployment-friendly design
 
-### 1. **Real-Time GPS MQTT Integration**
-*“Not all those who wander are lost.” — J.R.R. Tolkien*  
-Built a GPS data streamer using MQTT—think of it as real-time location magic with encryption and minimal lag. Perfect for tracking anything that moves (or tries to run away).
+### 2) Airborne Object Detection & Tracking (YOLO)
+Developed a CV workflow using **YOLO + TensorFlow** for detecting and tracking airborne objects:
+- real-time detection pipeline design
+- tuning for performance and stability
+- practical evaluation in visually challenging scenarios
 
-### 2. **YOLO for Airborne Object Detection**
-*“The sky’s the limit!”*  
-Designed a drone/object tracker using YOLO & TensorFlow to spot flying objects in busy airspaces. Like having an eagle-eyed AI on your team.
+### 3) 5G OpenRAN AI Optimizer
+Designed an ML pipeline to support **spectrum allocation optimization** for 5G/OpenRAN contexts:
+- feature engineering mindset
+- optimization goals framed around efficiency + constraints
+- iterative modeling and performance-driven approach
 
-### 3. **5G ORAN AI Optimizer**
-*“Efficiency is doing things right; effectiveness is doing the right things.” — Peter Drucker*  
-Created an AI pipeline to turbocharge spectrum allocation for 5G networks. Making telcos smarter, one algorithm at a time.
+### 4) Sensor Processing Libraries (IRST & RADAR)
+Built Python libraries for:
+- signal acquisition pipelines
+- object tracking logic
+- threat modeling in simulation-driven environments  
+Focus: modular design, reusability, and testable components.
 
-### 4. **Sensor Libraries – IRST & RADAR**
-*“The whole is greater than the sum of its parts.” — Aristotle*  
-Wrote Python libraries for signal acquisition, object tracking, and threat modeling—battle-tested in tough simulations.
-
-### 5. **Full Stack Dashboards for AI Data**
-*“Data is the new oil.” — Clive Humby*  
-Built interactive dashboards that blend JS and Python for real-time AI analytics. If you like your data beautiful and actionable, you’ll love these.
-
----
-
-## 🧰 Tools & Tech Toys
-
-| Domain         | Tech I Play With                        |
-| -------------- | --------------------------------------- |
-| IoT & Edge     | MQTT, HTTP, Arduino basics              |
-| ML/AI          | PyTorch, TensorFlow, OpenCV             |
-| Design         | Canva, Photoshop, After Effects         |
-| Cloud          | AWS, Azure, Bicep basics                |
-| Versioning     | Git, GitHub, GitHub Actions             |
+### 5) Full-Stack Dashboards for AI Data
+Built interactive dashboards bridging **Python + JS/TS** to visualize and monitor AI outputs:
+- real-time analytics views
+- decision-focused UI
+- “data → insight → action” design approach
 
 ---
 
-## 🔒 Ethical Hacking Insights
+## 🧰 Toolbox
 
-> “To confound the enemy, you must first understand them.” — Sun Tzu (sort of)
-
-- Scanning networks for vulnerabilities (WiFi, LAN, WAN)
-- Handling incidents & forensics (think digital detective work)
-- Baking security into every AI tool I build—because smart code should also be safe code!
-
----
-
-## 🧮 Math Mindset
-
-> “Mathematics is the music of reason.” — James Joseph Sylvester
-
-- **Linear Algebra & Calculus:** Neural networks’ secret sauce
-- **Probability & Stats:** Calculated confidence, measured risk
-- **Discrete Math & Graph Theory:** For when logic gets tricky
+| Area | Tools / Tech |
+|------|--------------|
+| AI/ML | PyTorch, TensorFlow, scikit-learn, OpenCV |
+| Data | NumPy, Pandas, Matplotlib |
+| IoT/Edge | MQTT, HTTP |
+| Cloud | AWS, Azure (incl. Bicep basics) |
+| Dev | Git, GitHub, GitHub Actions |
+| Design | Canva, Photoshop, After Effects |
 
 ---
 
-## 🎨 Creative Side Quests
+## 🔒 Security & Defensive Thinking
 
-> “Creativity is intelligence having fun.” — Albert Einstein
-
-- 1,000+ Canva designs: from infographics to brand kits!
-- Photoshop wizardry: masking, compositing, wild effects
-- Light video editing (Premiere Pro and friends)
-- Always blending design into dashboards, CVs, and more
+I like building with an attacker’s mindset *and* a defender’s discipline:
+- network scanning & vulnerability discovery fundamentals
+- incident response awareness + basic forensics thinking
+- security baked into pipelines: safer defaults, secure comms, validation, and logging
 
 ---
 
-## 🌟 Project Highlights
+## 🧮 Math Foundations
 
-### 🛰️ Defense Projects
-- **[Airborne Object Tracking (YOLO)](https://github.com/sachin-deshik-10/IRST-Airborne-Object-Detection-Tracking-YOLO)**  
-  _AI-powered detection and tracking of flying objects—think real-time, defense-grade tech!_
-- **[IRST Sensor Library](https://github.com/sachin-deshik-10/IRST_LIBRARY)**  
-  _Python tools for advanced signal detection and threat modeling in simulated environments._
-- **[Radar Processing Library](https://github.com/sachin-deshik-10/RADAR_LIBRARY)**  
-  _Radar data decoding, tracking, and visualization for next-gen surveillance._
+- **Linear Algebra & Calculus** (core ML foundations)
+- **Probability & Statistics** (uncertainty, risk, and evaluation)
+- **Discrete Math & Graph Thinking** (logic, networks, optimization intuition)
+
+---
+
+## 🎨 Creative Work
+
+Engineering is stronger when it communicates well:
+- 1000+ Canva designs (infographics, brand kits, technical visuals)
+- Photoshop compositing and creative editing
+- Light video editing (Premiere Pro + related tools)
+- Visual clarity for dashboards, portfolios, and documentation
+
+---
+
+## 🌟 Highlighted Repositories
+
+### 🛰️ Defense / CV / Sensors
+- **Airborne Object Tracking (YOLO)**  
+  https://github.com/sachin-deshik-10/IRST-Airborne-Object-Detection-Tracking-YOLO  
+- **IRST Sensor Library**  
+  https://github.com/sachin-deshik-10/IRST_LIBRARY  
+- **Radar Processing Library**  
+  https://github.com/sachin-deshik-10/RADAR_LIBRARY  
 
 ### 📡 5G & Telecom
-- **[5G AI Optimizer for OpenRAN](https://github.com/sachin-deshik-10/5G_AI_POWERED_ORAN)**  
-  _Making 5G networks smarter and faster with machine learning magic._
+- **5G AI Optimizer for OpenRAN**  
+  https://github.com/sachin-deshik-10/5G_AI_POWERED_ORAN  
 
-### 📘 Academics & Notes
-- **[ECE Course Notes Repository](https://github.com/sachin-deshik-10/RVCE-ECE-2021-Scheme-Notes)**  
-  _Curated notes for ECE students—because sharing is caring!_
+### 📘 Academics
+- **ECE Course Notes Repository**  
+  https://github.com/sachin-deshik-10/RVCE-ECE-2021-Scheme-Notes  
 
 ### 💻 Frontend + AI
-- **[Neuro Before Major (v5)](https://github.com/sachin-deshik-10/NEURO_BEFORE_MAJOR_v5)**  
-  _A cool fusion of JS + TS for real-time diagnostic AI dashboards. Data meets design!_
+- **Neuro Before Major (v5)**  
+  https://github.com/sachin-deshik-10/NEURO_BEFORE_MAJOR_v5  
 
 ---
 
-## 📚 Reading Nook
+## 📚 Reading
 
-> “A reader lives a thousand lives before he dies.” — George R.R. Martin
-
-- **AI:** _Deep Learning_ by Ian Goodfellow | _Hands-On ML_ by Aurélien Géron  
-- **Security:** _Basics of Hacking & Pen Testing_  
-- **Math:** _Linear Algebra_ by Gilbert Strang  
-
-🌱 I’m always contributing to open-source AI & security tools—come join the fun!
+- **AI/ML:** *Deep Learning* (Goodfellow) • *Hands-On ML* (Géron)  
+- **Security:** *Basics of Hacking & Pen Testing*  
+- **Math:** *Linear Algebra* (Gilbert Strang)
 
 ---
-## Publications
+
+## 📝 Publications
 
 ### IEEE Conference Paper
 - **Advanced Data-Driven Analysis and Optimization of LoRa Networks: A Comprehensive Machine Learning Approach**  
   **Authors:** N. S. Deshik, N. Kanthi, S. M  
   **Venue:** *2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)*, Bangalore, India (2025)  
-  **Pages:** 1–6  
   **DOI:** https://doi.org/10.1109/CSITSS67709.2025.11295011  
-  **Keywords:** LoRa; Machine Learning; Exploratory Data Analysis; Modulation Schemes; IoT; Network Optimization; Data Visualization; Signal-to-Noise Ratio; Bit Error Rate; Chirp Spread Spectrum; Throughput; Energy Efficiency
+  **Keywords:** LoRa; Machine Learning; EDA; Modulation Schemes; IoT; Optimization; Visualization; SNR; BER; CSS; Threat modeling
 
 ---
 
-## 💬 Let’s Connect!
+## 💬 Connect
 
-| Platform      | Link                                                                                                                                           |
-|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📧 Email      | [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com)                                                                        |
-| 💼 LinkedIn   | [LinkedIn Profile](https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| 📸 Instagram  | [Instagram Profile](https://www.instagram.com/__.desh._.10.__/profilecard/?igsh=bWRqOWZ0MnU0NHIx)                                               |
-| 💬 WhatsApp   | [Chat on WhatsApp](https://wa.me/qr/6LRSFDM5UY27J1)                                                                                            |
-| 🐦 Twitter    | [@sachindeshik10](#)                                                                                                                           |
-| 🌐 Portfolio  | _Coming soon!_                                                                                                                                 |
-
-> “Collaboration allows us to know more than we are capable of knowing by ourselves.” — Paul Solarz  
-Got questions? Ideas? Want to team up? Open an issue, drop a message, or just say hi!
+| Platform | Link |
+|---------|------|
+| Email | [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com) |
+| LinkedIn | https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362 |
+| Instagram | https://www.instagram.com/__.desh._.10.__/ |
+| WhatsApp | https://wa.me/qr/6LRSFDM5UY27J1 |
+| Twitter/X | @sachindeshik10 |
+| Portfolio | Coming soon |
 
 ---
 
-## 🙌 Thanks for stopping by!
+## 🙌 Thanks for visiting
 
-If you made it this far, you’re awesome. Let’s build, break (ethically!), and innovate together.  
-**Ready to create something cool? Hit me up!** 🔧💡
-
----
+If you’re working on **AI/ML, CV, IoT/edge, or security-focused engineering**, I’m always up for collaborating.  
+Open an issue, reach out, or drop a message — let’s build something solid.
