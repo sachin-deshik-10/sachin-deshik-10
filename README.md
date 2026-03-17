@@ -1,221 +1,253 @@
-# Hi, I’m Sachin Deshik 👋
+<h1 align="center">Hi 👋, I'm Sachin Deshik</h1>
+<h3 align="center">AI • Computer Vision • Sensor Systems • IoT / Edge • Cybersecurity</h3>
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+%26+Communication+Engineer;AI+%7C+Computer+Vision+Developer;Sensor+Fusion+Engineer;IoT+%2F+Edge+Systems+Builder;Cybersecurity+Enthusiast;Researcher+%26+Open+Source+Contributor&center=true&width=650&height=45">
+</p>
 
-I’m an **Electronics & Communication Engineer** and a hands-on builder focused on **AI/ML, computer vision, IoT/edge systems, and cybersecurity**.  
-I enjoy shipping systems where **models meet real-world constraints**: latency, reliability, observability, and security.
-
----
-
-## 🧭 Table of Contents
-
-1. [About](#about)
-2. [Education](#education)
-3. [Technical Strengths](#technical-strengths)
-4. [Certifications](#certifications)
-5. [Engineering Projects](#engineering-projects)
-6. [Toolbox](#toolbox)
-7. [Security & Defensive Thinking](#security--defensive-thinking)
-8. [Math Foundations](#math-foundations)
-9. [Creative Work](#creative-work)
-10. [Highlighted Repositories](#highlighted-repositories)
-11. [Reading](#reading)
-12. [Publications](#publications)
-13. [Connect](#connect)
+<p align="center">
+“The best way to predict the future is to invent it.” — Alan Kay
+</p>
 
 ---
 
-## 🔥 About
+# 💫 About Me
 
-I��m **Sachin Deshik** — I build **intelligent, secure, real-time systems** across AI + networks + embedded/edge workflows.
+I’m **Sachin Deshik**, an **Electronics & Communication Engineer** building intelligent systems at the intersection of:
 
-- 🤖 **AI/ML + CV:** training, evaluation, deployment-aware thinking (speed, memory, failure modes)
-- 📡 **IoT/Edge Systems:** streaming telemetry, messaging patterns, device-to-cloud pipelines
-- 🔐 **Security Mindset:** threat modeling, pentesting fundamentals, and “secure-by-design” engineering
-- 🎨 **Design + Engineering:** dashboards, technical storytelling, and UX that makes systems usable
+- 🤖 Artificial Intelligence & Machine Learning  
+- 👁 Computer Vision & Sensor Systems  
+- 📡 IoT / Edge Architectures  
+- 🔐 Cybersecurity Engineering  
 
-If it can be measured, optimized, secured, and automated — I’m interested.
+I enjoy designing systems where **AI meets real-world constraints**:
 
----
+- latency  
+- reliability  
+- observability  
+- security  
+- deployment scalability  
 
-## 🎓 Education
-
-- **B.E. (Electronics & Communication Engineering)** — RV College of Engineering, Bangalore  
-  Strong foundation in signals, systems, networks, and applied engineering.
-
-- **Self-Directed Learning:**  
-  ML/AI, cybersecurity, IoT systems, applied mathematics, and engineering tools through projects and continuous experimentation.
+If something can be **measured, optimized, secured, and automated — I want to build it.**
 
 ---
 
-## 🧠 Technical Strengths
+# 🎓 Education
 
-### Programming & Engineering
-- **Python** (data pipelines, tooling, automation, prototyping → productionization mindset)
-- **C** (systems/embedded fundamentals)
-- **JavaScript/TypeScript** (frontend + dashboards, integration workflows)
+**B.E. Electronics & Communication Engineering**  
+RV College of Engineering — Bangalore
 
-### AI/ML & Computer Vision
-- Model development with **PyTorch / TensorFlow / Keras**
-- Practical ML with **scikit-learn**
-- CV pipelines with **OpenCV**
-- Comfortable with: dataset handling, metrics, error analysis, inference constraints, and iterative improvement
+Core focus:
 
-### Data & Analytics
-- **NumPy, Pandas, Matplotlib**
-- Building analysis flows that produce decisions, not just charts
-
-### IoT / Networking
-- **MQTT, HTTP**, telemetry streaming patterns
-- Thinking in reliability: retries, QoS, payload design, latency budgets
-
-### Security
-- Vulnerability discovery basics, network analysis, incident response awareness
-- Building systems with stronger defaults: least privilege, safer configs, secure comms, logging/monitoring
+- Signal Processing  
+- Communication Systems  
+- Embedded Systems  
+- Applied Engineering Mathematics  
 
 ---
 
-## 📜 Certifications
+# 🧠 Technical Strengths
 
-- ✅ **Ethical Hacking** — Rajat Grover  
-- 🎨 **Canva Design Mastery** — 1000+ verified designs  
-- 📚 Next: Advanced AI architectures + applied math for ML
+### Programming
+- Python  
+- C  
+- JavaScript / TypeScript  
 
----
+### AI / Machine Learning
+- PyTorch  
+- TensorFlow  
+- Keras  
+- scikit-learn  
+- OpenCV  
 
-## 🚀 Engineering Projects
+Capabilities:
 
-### 1) Real-Time GPS Streaming over MQTT
-Built a real-time GPS telemetry pipeline using **MQTT** with attention to:
-- low-latency streaming
-- structured payloads
-- secure transport / encryption considerations
-- deployment-friendly design
-
-### 2) Airborne Object Detection & Tracking (YOLO)
-Developed a CV workflow using **YOLO + TensorFlow** for detecting and tracking airborne objects:
-- real-time detection pipeline design
-- tuning for performance and stability
-- practical evaluation in visually challenging scenarios
-
-### 3) 5G OpenRAN AI Optimizer
-Designed an ML pipeline to support **spectrum allocation optimization** for 5G/OpenRAN contexts:
-- feature engineering mindset
-- optimization goals framed around efficiency + constraints
-- iterative modeling and performance-driven approach
-
-### 4) Sensor Processing Libraries (IRST & RADAR)
-Built Python libraries for:
-- signal acquisition pipelines
-- object tracking logic
-- threat modeling in simulation-driven environments  
-Focus: modular design, reusability, and testable components.
-
-### 5) Full-Stack Dashboards for AI Data
-Built interactive dashboards bridging **Python + JS/TS** to visualize and monitor AI outputs:
-- real-time analytics views
-- decision-focused UI
-- “data → insight → action” design approach
+- dataset engineering  
+- model training pipelines  
+- evaluation and metrics  
+- inference optimization  
+- deployment-aware development  
 
 ---
 
-## 🧰 Toolbox
+# 🚀 Highlighted Engineering Projects
 
-| Area | Tools / Tech |
-|------|--------------|
-| AI/ML | PyTorch, TensorFlow, scikit-learn, OpenCV |
-| Data | NumPy, Pandas, Matplotlib |
-| IoT/Edge | MQTT, HTTP |
-| Cloud | AWS, Azure (incl. Bicep basics) |
-| Dev | Git, GitHub, GitHub Actions |
-| Design | Canva, Photoshop, After Effects |
+## 🛰 Airborne Object Detection & Tracking (YOLO)
 
----
+Computer vision system for airborne target detection.
 
-## 🔒 Security & Defensive Thinking
+Key Features:
 
-I like building with an attacker’s mindset *and* a defender’s discipline:
-- network scanning & vulnerability discovery fundamentals
-- incident response awareness + basic forensics thinking
-- security baked into pipelines: safer defaults, secure comms, validation, and logging
+- real-time object detection  
+- optimized inference pipeline  
+- robust tracking algorithms  
+
+Repository
+
+https://github.com/sachin-deshik-10/IRST-Airborne-Object-Detection-Tracking-YOLO
 
 ---
 
-## 🧮 Math Foundations
+## 📡 RADAR Processing Library
 
-- **Linear Algebra & Calculus** (core ML foundations)
-- **Probability & Statistics** (uncertainty, risk, and evaluation)
-- **Discrete Math & Graph Thinking** (logic, networks, optimization intuition)
+Python toolkit for radar signal acquisition and tracking.
 
----
+Features:
 
-## 🎨 Creative Work
+- radar signal processing  
+- target tracking algorithms  
+- modular sensor simulation  
 
-Engineering is stronger when it communicates well:
-- 1000+ Canva designs (infographics, brand kits, technical visuals)
-- Photoshop compositing and creative editing
-- Light video editing (Premiere Pro + related tools)
-- Visual clarity for dashboards, portfolios, and documentation
+Repository
+
+https://github.com/sachin-deshik-10/RADAR_LIBRARY
 
 ---
 
-## 🌟 Highlighted Repositories
+## 🌌 IRST Sensor Processing Library
 
-### 🛰️ Defense / CV / Sensors
-- **Airborne Object Tracking (YOLO)**  
-  https://github.com/sachin-deshik-10/IRST-Airborne-Object-Detection-Tracking-YOLO  
-- **IRST Sensor Library**  
-  https://github.com/sachin-deshik-10/IRST_LIBRARY  
-- **Radar Processing Library**  
-  https://github.com/sachin-deshik-10/RADAR_LIBRARY  
+Infrared Search & Track data processing framework.
 
-### 📡 5G & Telecom
-- **5G AI Optimizer for OpenRAN**  
-  https://github.com/sachin-deshik-10/5G_AI_POWERED_ORAN  
+Features:
 
-### 📘 Academics
-- **ECE Course Notes Repository**  
-  https://github.com/sachin-deshik-10/RVCE-ECE-2021-Scheme-Notes  
+- thermal sensor data pipelines  
+- airborne threat modeling  
+- simulation-based evaluation  
 
-### 💻 Frontend + AI
-- **Neuro Before Major (v5)**  
-  https://github.com/sachin-deshik-10/NEURO_BEFORE_MAJOR_v5  
+Repository
+
+https://github.com/sachin-deshik-10/IRST_LIBRARY
 
 ---
 
-## 📚 Reading
+## 📶 5G AI Optimizer for OpenRAN
 
-- **AI/ML:** *Deep Learning* (Goodfellow) • *Hands-On ML* (Géron)  
-- **Security:** *Basics of Hacking & Pen Testing*  
-- **Math:** *Linear Algebra* (Gilbert Strang)
+Machine learning system for spectrum optimization.
+
+Features:
+
+- feature engineering pipelines  
+- ML-driven network optimization  
+- performance analysis  
+
+Repository
+
+https://github.com/sachin-deshik-10/5G_AI_POWERED_ORAN
 
 ---
 
-## 📝 Publications
+## 📍 Real-Time GPS Telemetry System
+
+MQTT-based location streaming architecture.
+
+Features:
+
+- real-time telemetry  
+- low latency communication  
+- IoT messaging pipelines  
+
+---
+
+# 📚 Research Publication
 
 ### IEEE Conference Paper
-- **Advanced Data-Driven Analysis and Optimization of LoRa Networks: A Comprehensive Machine Learning Approach**  
-  **Authors:** N. S. Deshik, N. Kanthi, S. M  
-  **Venue:** *2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)*, Bangalore, India (2025)  
-  **DOI:** https://doi.org/10.1109/CSITSS67709.2025.11295011  
-  **Keywords:** LoRa; Machine Learning; EDA; Modulation Schemes; IoT; Optimization; Visualization; SNR; BER; CSS; Threat modeling
+
+**Advanced Data-Driven Analysis and Optimization of LoRa Networks: A Comprehensive Machine Learning Approach**
+
+Authors  
+N. S. Deshik, N. Kanthi, S. M  
+
+Conference  
+IEEE CSITSS 2025 — Bangalore
+
+DOI
+
+https://doi.org/10.1109/CSITSS67709.2025.11295011
+
+Keywords
+
+LoRa • Machine Learning • IoT • Signal Processing • Network Optimization
 
 ---
 
-## 💬 Connect
+# 🧰 Toolbox
+
+| Domain | Tools |
+|------|------|
+AI / ML | PyTorch, TensorFlow, scikit-learn |
+Computer Vision | OpenCV |
+Data Science | NumPy, Pandas, Matplotlib |
+IoT | MQTT |
+Cloud | AWS, Azure |
+DevOps | Git, GitHub Actions |
+Design | Canva, Photoshop |
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sachin-deshik-10&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-deshik-10&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-deshik-10&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-deshik-10&theme=tokyo-night)](https://github.com/sachin-deshik-10)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/sachin-deshik-10/sachin-deshik-10/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sachin-deshik-10&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+# 📬 Connect With Me
 
 | Platform | Link |
-|---------|------|
-| Email | [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com) |
-| LinkedIn | https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362 |
-| Instagram | https://www.instagram.com/__.desh._.10.__/ |
-| WhatsApp | https://wa.me/qr/6LRSFDM5UY27J1 |
-| Twitter/X | @sachindeshik10 |
-| Portfolio | Coming soon |
+|---|---|
+Email | nayakulasachindeshik@gmail.com |
+LinkedIn | https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362 |
+Instagram | https://www.instagram.com/__.desh._.10.__/ |
+Twitter/X | https://twitter.com/sachindeshik10 |
 
 ---
 
-## 🙌 Thanks for visiting
+# 🙌 Thanks for Visiting
 
-If you’re working on **AI/ML, CV, IoT/edge, or security-focused engineering**, I’m always up for collaborating.  
-Open an issue, reach out, or drop a message — let’s build something solid.
+If you're working on:
+
+AI • Computer Vision • Sensor Systems • IoT • Secure Engineering
+
+I'm always open to **collaboration, research discussions, and open-source contributions.**
+
+Let's build something impactful 🚀
