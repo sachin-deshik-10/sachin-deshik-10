@@ -219,8 +219,7 @@ Design | Canva, Photoshop |
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/sachin-deshik-10/sachin-deshik-10/snake.yml)
-
+![snake gif](https://github.com/sachin-deshik-10/sachin-deshik-10/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 👀 Profile Views
