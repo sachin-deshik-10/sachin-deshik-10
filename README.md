@@ -237,7 +237,7 @@ Design | Canva, Photoshop |
 Email | nayakulasachindeshik@gmail.com |
 LinkedIn | https://www.linkedin.com/in/sachin-deshik-nayakula-62b93b362 |
 Instagram | https://www.instagram.com/__.desh._.10.__/ |
-Twitter/X | https://twitter.com/sachindeshik10 |
+
 
 ---
 
